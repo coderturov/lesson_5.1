@@ -22,7 +22,7 @@ div.textContent = "Пятый пункт";
 menu.appendChild(div);
 
 //замена фона
-document.body.style.backgroundImage = "url(../img/apple_true.jpg)";
+document.body.style.backgroundImage = "url(./img/apple_true.jpg)";
 
 //как вы относитесь к технике Apple
 
